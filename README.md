@@ -1,7 +1,7 @@
 # Web_Scraping
 Web Scraping con Python
 
-# 🕷️ Web Scraping con Python
+#  Web Scraping con Python
 
 Este repositorio reúne todo lo que fui **investigando y aprendiendo de forma autodidacta** sobre web scraping utilizando Python.  
 Incluye ejemplos, pruebas, apuntes, librerías utilizadas y diferentes técnicas para extraer información de páginas web.
@@ -26,7 +26,7 @@ Documentar mi progreso y aprendizaje en web scraping con Python, y servir como r
 
 ## 🌐 English Version
 
-# 🕷️ Web Scraping with Python
+#  Web Scraping with Python
 
 This repository gathers everything I have **researched and learned in a self-taught way** about web scraping using Python.  
 It includes examples, tests, notes, commonly used libraries, and various techniques for extracting data from websites.
